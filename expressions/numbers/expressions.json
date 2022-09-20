@@ -54,5 +54,12 @@
     "answer": "12.566370614359172",
     "correct": true,
     "timestamp": 1663711095367
+  },
+  {
+    "name": "Seconds in a day",
+    "canonical": "24 * 60 * 60",
+    "answer": "86400",
+    "correct": true,
+    "timestamp": 1663711120616
   }
 ]
