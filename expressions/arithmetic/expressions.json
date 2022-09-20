@@ -103,5 +103,12 @@
     "answer": "(a+b+c)/3",
     "correct": true,
     "timestamp": 1663712550321
+  },
+  {
+    "name": "General average",
+    "canonical": "total / count",
+    "answer": "(a+b+c)/3",
+    "correct": false,
+    "timestamp": 1663712604158
   }
 ]
