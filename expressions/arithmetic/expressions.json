@@ -54,5 +54,12 @@
     "answer": "-45.8417620491861332",
     "correct": false,
     "timestamp": 1663712038464
+  },
+  {
+    "name": "Remainder",
+    "canonical": "a % b",
+    "answer": "-4.748528571057733",
+    "correct": false,
+    "timestamp": 1663712054960
   }
 ]
