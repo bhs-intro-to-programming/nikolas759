@@ -75,5 +75,12 @@
     "answer": "a%b",
     "correct": true,
     "timestamp": 1663712322046
+  },
+  {
+    "name": "Average",
+    "canonical": "(a + b) / 2",
+    "answer": "2(a+b)",
+    "correct": false,
+    "timestamp": 1663712387837
   }
 ]
