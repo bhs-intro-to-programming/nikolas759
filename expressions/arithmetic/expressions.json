@@ -138,5 +138,12 @@
     "answer": "2(10+10)",
     "correct": false,
     "timestamp": 1663796643974
+  },
+  {
+    "name": "General average",
+    "canonical": "total / count",
+    "answer": "(10+10)/2",
+    "correct": false,
+    "timestamp": 1663796651082
   }
 ]
