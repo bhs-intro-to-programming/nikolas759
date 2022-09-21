@@ -5,5 +5,12 @@
     "answer": "s*s*s*s",
     "correct": false,
     "timestamp": 1663796188146
+  },
+  {
+    "name": "Perimeter of a square",
+    "canonical": "4*s",
+    "answer": "s*s",
+    "correct": false,
+    "timestamp": 1663796198578
   }
 ]
