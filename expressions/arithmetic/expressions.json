@@ -131,5 +131,12 @@
     "answer": "(5*5*5)/3",
     "correct": false,
     "timestamp": 1663712734044
+  },
+  {
+    "name": "General average",
+    "canonical": "total / count",
+    "answer": "2(10+10)",
+    "correct": false,
+    "timestamp": 1663796643974
   }
 ]
