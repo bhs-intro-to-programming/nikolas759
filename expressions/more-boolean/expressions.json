@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Will we skip our trip to the store?",
+    "canonical": "!storeOpen || linesTooLong",
+    "answer": "storeOpen == linesToolong",
+    "correct": false,
+    "timestamp": 1663883192079
+  }
+]
