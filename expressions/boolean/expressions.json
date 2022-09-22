@@ -243,5 +243,12 @@
     "answer": "done == fun",
     "correct": false,
     "timestamp": 1663883099155
+  },
+  {
+    "name": "Having fun?",
+    "canonical": "done || !fun",
+    "answer": "done !== fun",
+    "correct": false,
+    "timestamp": 1663883136940
   }
 ]
