@@ -145,5 +145,12 @@
     "answer": "(10+10)/2",
     "correct": false,
     "timestamp": 1663796651082
+  },
+  {
+    "name": "General average",
+    "canonical": "total / count",
+    "answer": "\t(a+b+c+e)/3",
+    "correct": false,
+    "timestamp": 1663882620559
   }
 ]
