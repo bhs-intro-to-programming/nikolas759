@@ -103,5 +103,12 @@
     "answer": "fast == strong",
     "correct": false,
     "timestamp": 1663884988115
+  },
+  {
+    "name": "Ready for some football?",
+    "canonical": "fast && strong",
+    "answer": "fast || strong",
+    "correct": false,
+    "timestamp": 1663884997155
   }
 ]
