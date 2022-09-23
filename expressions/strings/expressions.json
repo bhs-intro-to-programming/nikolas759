@@ -159,5 +159,12 @@
     "answer": "\"foo\"[0]",
     "correct": false,
     "timestamp": 1663969554543
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "s1 + s2",
+    "answer": "'foo'.firstLetter",
+    "correct": false,
+    "timestamp": 1663969595329
   }
 ]
