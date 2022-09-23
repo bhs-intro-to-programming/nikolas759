@@ -243,5 +243,12 @@
     "answer": "s.substring(1)",
     "correct": false,
     "timestamp": 1663971203471
+  },
+  {
+    "name": "Last three",
+    "canonical": "s.substring(s.length - 3)",
+    "answer": "s.substring(5)",
+    "correct": false,
+    "timestamp": 1663971210111
   }
 ]
