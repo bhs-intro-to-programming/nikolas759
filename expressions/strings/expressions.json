@@ -166,5 +166,12 @@
     "answer": "'foo'.firstLetter",
     "correct": false,
     "timestamp": 1663969595329
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'foo'.firstLetter",
+    "correct": false,
+    "timestamp": 1663969615289
   }
 ]
