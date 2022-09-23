@@ -131,5 +131,12 @@
     "answer": "\"foo\" (0)",
     "correct": false,
     "timestamp": 1663969482749
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'foo'[0]",
+    "correct": false,
+    "timestamp": 1663969517222
   }
 ]
