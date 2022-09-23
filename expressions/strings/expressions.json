@@ -124,5 +124,12 @@
     "answer": "\"foo\"(0)",
     "correct": false,
     "timestamp": 1663969477349
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "\"foo\" (0)",
+    "correct": false,
+    "timestamp": 1663969482749
   }
 ]
