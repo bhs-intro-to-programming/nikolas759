@@ -229,5 +229,12 @@
     "answer": "s.substring(3)",
     "correct": false,
     "timestamp": 1663971159254
+  },
+  {
+    "name": "Last three",
+    "canonical": "s.substring(s.length - 3)",
+    "answer": "s.substring(3)",
+    "correct": false,
+    "timestamp": 1663971194919
   }
 ]
