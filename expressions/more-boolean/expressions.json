@@ -222,5 +222,12 @@
     "answer": "hungry || !intrested",
     "correct": false,
     "timestamp": 1664229819705
+  },
+  {
+    "name": "Can pay attention?",
+    "canonical": "!hungry && interested",
+    "answer": "hungry || !interested",
+    "correct": false,
+    "timestamp": 1664229828425
   }
 ]
