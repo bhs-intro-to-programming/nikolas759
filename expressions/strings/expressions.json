@@ -432,5 +432,12 @@
     "answer": "s.substring(s.length - 3)",
     "correct": true,
     "timestamp": 1664230165556
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'abc'[0]",
+    "correct": false,
+    "timestamp": 1664230279191
   }
 ]
