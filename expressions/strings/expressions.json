@@ -439,5 +439,12 @@
     "answer": "'abc'[0]",
     "correct": false,
     "timestamp": 1664230279191
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'foo'[0]",
+    "correct": false,
+    "timestamp": 1664230285239
   }
 ]
