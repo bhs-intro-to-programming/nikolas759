@@ -159,5 +159,12 @@
     "answer": "\t(a+b+c)/3",
     "correct": false,
     "timestamp": 1663882631703
+  },
+  {
+    "name": "Distance",
+    "canonical": "Math.abs(a - b)",
+    "answer": "math.abs",
+    "correct": false,
+    "timestamp": 1664314777919
   }
 ]
