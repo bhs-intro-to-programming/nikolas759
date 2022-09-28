@@ -348,5 +348,12 @@
     "answer": "fun && tired",
     "correct": false,
     "timestamp": 1664403134135
+  },
+  {
+    "name": "Not feeling it?",
+    "canonical": "!fun || tired",
+    "answer": "!fun && tired",
+    "correct": false,
+    "timestamp": 1664403175072
   }
 ]
