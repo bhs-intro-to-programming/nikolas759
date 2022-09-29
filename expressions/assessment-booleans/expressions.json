@@ -75,5 +75,12 @@
     "answer": "member && !outSick",
     "correct": true,
     "timestamp": 1664487776772
+  },
+  {
+    "name": "Will we skip our trip to the store?",
+    "canonical": "!storeOpen || linesTooLong",
+    "answer": "!storeOpen || linesTooLong",
+    "correct": true,
+    "timestamp": 1664487838773
   }
 ]
