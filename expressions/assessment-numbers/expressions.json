@@ -54,5 +54,12 @@
     "answer": "r = rem(a,b)",
     "correct": false,
     "timestamp": 1664490182642
+  },
+  {
+    "name": "Remainder",
+    "canonical": "a % b",
+    "answer": "r=rem(a,b)",
+    "correct": false,
+    "timestamp": 1664490186394
   }
 ]
