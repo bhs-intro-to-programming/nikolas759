@@ -5,5 +5,12 @@
     "answer": "5 + 5",
     "correct": true,
     "timestamp": 1665093246258
+  },
+  {
+    "name": "Two plus two",
+    "canonical": "2 + 2",
+    "answer": "1 + 3",
+    "correct": true,
+    "timestamp": 1665093256338
   }
 ]
