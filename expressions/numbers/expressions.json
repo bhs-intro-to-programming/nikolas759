@@ -40,5 +40,12 @@
     "answer": "6432 - 4000",
     "correct": true,
     "timestamp": 1665093381366
+  },
+  {
+    "name": "Seconds in a day",
+    "canonical": "24 * 60 * 60",
+    "answer": " 1 * 86400",
+    "correct": true,
+    "timestamp": 1665093433735
   }
 ]
