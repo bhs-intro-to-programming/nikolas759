@@ -1,4 +1,4 @@
-const perimiterOfSqueare = (t) => {
+const perimiterOfTriangle = (t) => {
   return t * 3;
 
 }
