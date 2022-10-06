@@ -12,5 +12,12 @@
     "answer": "1 + 3",
     "correct": true,
     "timestamp": 1665093256338
+  },
+  {
+    "name": "1337 times 32",
+    "canonical": "1337 * 32",
+    "answer": "idk",
+    "correct": false,
+    "timestamp": 1665093305059
   }
 ]
