@@ -1,3 +1,4 @@
-const nikolas = (a, b) => {
-  return a / b;
-  }
+const perimiterOfSqueare = (t) => {
+  return t * 3;
+
+}
