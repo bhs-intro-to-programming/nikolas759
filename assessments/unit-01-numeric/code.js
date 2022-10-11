@@ -38,3 +38,7 @@ const firstClassPostage = (weightOfLetter) => {
 const weightOnJupiter = (weightOfPersonOnEarth) => {
   return JUPITER_GRAVITY / EARTH_GRAVITY
 };
+
+const gravity = (massOfBody1, massOfBody2, distanceBetween2Objects) => {
+  return (massOfBody1 * massOfBody1) * 6.6743e-11;
+};
