@@ -18,3 +18,7 @@ const areaOfCircle = (radiusOfCircle) => {
 const volumeOfCube = (lenght) => {
   return lenght * 3
 }
+
+const populationGrowth = (currentSize, GrowthRate) => {
+  return currentSize * GrowthRate;
+};
