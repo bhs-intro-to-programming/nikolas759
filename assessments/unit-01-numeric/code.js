@@ -26,3 +26,11 @@ const populationGrowth = (currentSize, GrowthRate) => {
 const earnedRunAverage = (numberOfEarnedRuns, numberOfInnings) => {
   return (numberOfEarnedRuns + numberOfInnings) / 2 * 9;
 }
+
+const payWithOvertime = (numberOfHours, hourlyRate, overTimeRate) => {
+  return (hourlyRate * numberOfHours) + overTimeRate;
+}
+
+const firstClassPostage = (weightOfLetter) => {
+  return 60 + Math.ceil(1,2) + 24;
+};
