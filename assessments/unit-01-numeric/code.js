@@ -24,5 +24,5 @@ const populationGrowth = (currentSize, GrowthRate) => {
 };
 
 const earnedRunAverage = (numberOfEarnedRuns, numberOfInnings) => {
-  return (numberOfEarnedRuns + numberOfInnings) / 2 * 9
+  return (numberOfEarnedRuns + numberOfInnings) / 2 * 9;
 }
