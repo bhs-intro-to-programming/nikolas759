@@ -7,3 +7,9 @@ const G = 6.6743e-11;
 // syntactically correct function skeleton, more credit for a skeleton with a
 // reasonable argument list, yet more credit for a working function, and full
 // credit for a clear and simple working function.
+const itemsLeftOver = (numberOfPeople, numberOfItems) => {
+  return numberOfItems
+}
+const areaOfCircle = (radiusOfCircle) => {
+  return Math.PI  
+}
