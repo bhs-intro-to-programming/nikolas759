@@ -1,1 +1,3 @@
-const countTens [10]
+const countTens [array] => {
+  let countTens = 10
+}
