@@ -1,1 +1,3 @@
-(s.length - 1)
+const add = (a, b) => {
+  return a + b;
+} 
