@@ -15,3 +15,6 @@ const fireAlarm (pulled, smoke, drill) => {
 const canBePresident (age, naturalBorn, livedInUs) => {
   return age => 35 && naturalBorn && liveInUs => 14 
 }
+const willSeeTweet (follow, followrt, blocked) => {
+  return follow || followrt && !blocked
+}
