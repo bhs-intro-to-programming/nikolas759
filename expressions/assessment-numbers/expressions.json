@@ -82,5 +82,12 @@
     "answer": "42784 * 1",
     "correct": true,
     "timestamp": 1666390861975
+  },
+  {
+    "name": "Sum",
+    "canonical": "a + b",
+    "answer": "a + b",
+    "correct": true,
+    "timestamp": 1666390877792
   }
 ]
