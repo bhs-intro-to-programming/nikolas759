@@ -11,5 +11,5 @@
   "When Math.random() returns a number greater than 0.01",
   "It tests whether there are at most max prime numbers below limit.",
   "10",
-  "xs[-1]"
+  "xs[xs.length - 1]"
 ]
