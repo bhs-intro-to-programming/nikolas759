@@ -152,5 +152,12 @@
     "answer": "Math.PI * b",
     "correct": false,
     "timestamp": 1666391157320
+  },
+  {
+    "name": "Remainder",
+    "canonical": "a % b",
+    "answer": "a % b",
+    "correct": true,
+    "timestamp": 1666391174202
   }
 ]
