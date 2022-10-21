@@ -17,5 +17,6 @@
   "xs[1][2]",
   "300",
   "true",
-  "The sum of the elements of the array."
+  "The sum of the elements of the array.",
+  "Changes all the words in the words array to uppercase."
 ]
