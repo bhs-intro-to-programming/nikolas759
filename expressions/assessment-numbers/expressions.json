@@ -68,5 +68,12 @@
     "answer": "rem(a,b)",
     "correct": false,
     "timestamp": 1664490189786
+  },
+  {
+    "name": "Average",
+    "canonical": "(a + b) / 2",
+    "answer": "(a + b)/2",
+    "correct": true,
+    "timestamp": 1666390810009
   }
 ]
