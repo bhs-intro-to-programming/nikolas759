@@ -481,5 +481,12 @@
     "answer": "'foo'.toUpperCase",
     "correct": false,
     "timestamp": 1664315060346
+  },
+  {
+    "name": "Indexing",
+    "canonical": "'f'",
+    "answer": "f",
+    "correct": false,
+    "timestamp": 1667427297608
   }
 ]
