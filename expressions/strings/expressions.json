@@ -530,5 +530,12 @@
     "answer": "\"o\"",
     "correct": true,
     "timestamp": 1667427603152
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s.firstLetter",
+    "correct": false,
+    "timestamp": 1667427701900
   }
 ]
