@@ -488,5 +488,12 @@
     "answer": "f",
     "correct": false,
     "timestamp": 1667427297608
+  },
+  {
+    "name": "Indexing",
+    "canonical": "'f'",
+    "answer": "\"f\"",
+    "correct": true,
+    "timestamp": 1667427307752
   }
 ]
