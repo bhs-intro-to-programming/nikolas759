@@ -11,7 +11,7 @@ const itemsLeftOver = (numberOfPeople, numberOfItems) => {
   return numberOfItems
 }
 const areaOfCircle = (radiusOfCircle) => {
-  return Math.PI  * radiusOfCircle * radiusOfCircle
+  return Math.PI  * radiusOfCircle 
 }
 
 
