@@ -537,5 +537,12 @@
     "answer": "s.firstLetter",
     "correct": false,
     "timestamp": 1667427701900
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "'foobar'",
+    "answer": "\"3\"",
+    "correct": false,
+    "timestamp": 1667511554192
   }
 ]
