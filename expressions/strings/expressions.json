@@ -614,5 +614,12 @@
     "answer": "'foo'",
     "correct": true,
     "timestamp": 1667598429893
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "s1 + s2",
+    "answer": "l",
+    "correct": false,
+    "timestamp": 1667598445430
   }
 ]
