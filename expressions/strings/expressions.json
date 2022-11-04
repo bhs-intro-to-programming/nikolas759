@@ -803,5 +803,19 @@
     "answer": "s.toUpperCase(1)",
     "correct": false,
     "timestamp": 1667599137946
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s.toUpperCase(1)",
+    "correct": false,
+    "timestamp": 1667599138163
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s.toUpperCase(1)",
+    "correct": false,
+    "timestamp": 1667599138370
   }
 ]
