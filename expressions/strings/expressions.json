@@ -866,5 +866,12 @@
     "answer": "s.toUpperCase(3,s.lenght)",
     "correct": false,
     "timestamp": 1667599456956
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s.substring(0)",
+    "correct": false,
+    "timestamp": 1667599657370
   }
 ]
