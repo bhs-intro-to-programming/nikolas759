@@ -635,5 +635,12 @@
     "answer": "'foo'.substring(1,2)",
     "correct": false,
     "timestamp": 1667598524072
+  },
+  {
+    "name": "All but first",
+    "canonical": "s.substring(1)",
+    "answer": "'foo'.substring(1,3)",
+    "correct": false,
+    "timestamp": 1667598531047
   }
 ]
