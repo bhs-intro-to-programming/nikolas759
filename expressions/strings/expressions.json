@@ -621,5 +621,12 @@
     "answer": "l",
     "correct": false,
     "timestamp": 1667598445430
+  },
+  {
+    "name": "All but first",
+    "canonical": "s.substring(1)",
+    "answer": "'foo'.indexOf(1,2)",
+    "correct": false,
+    "timestamp": 1667598502935
   }
 ]
