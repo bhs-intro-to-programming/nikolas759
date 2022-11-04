@@ -747,5 +747,26 @@
     "answer": "s.toUpperCase(1)",
     "correct": false,
     "timestamp": 1667599135954
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s.toUpperCase(1)",
+    "correct": false,
+    "timestamp": 1667599136114
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s.toUpperCase(1)",
+    "correct": false,
+    "timestamp": 1667599136426
+  },
+  {
+    "name": "Capitalize",
+    "canonical": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
+    "answer": "s.toUpperCase(1)",
+    "correct": false,
+    "timestamp": 1667599136762
   }
 ]
