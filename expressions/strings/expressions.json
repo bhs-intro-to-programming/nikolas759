@@ -642,5 +642,12 @@
     "answer": "'foo'.substring(1,3)",
     "correct": false,
     "timestamp": 1667598531047
+  },
+  {
+    "name": "First three",
+    "canonical": "s.substring(0,3)",
+    "answer": "'foo'.substring(0,4)",
+    "correct": false,
+    "timestamp": 1667598732750
   }
 ]
