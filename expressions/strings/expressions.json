@@ -593,5 +593,12 @@
     "answer": "'foo'.indexOf(-1)",
     "correct": false,
     "timestamp": 1667598354538
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "'foo'.indexOf(0)",
+    "correct": false,
+    "timestamp": 1667598387755
   }
 ]
