@@ -41,5 +41,5 @@ const isAllUpperCase = (s) => {
   return s.toUpperCase && !s.toLowerCase
 }
 const everyOther = (s) => {
-  return s.substring(0,1)+.substring(2,3)+.substring(4,5)
+  return s.substring(0,1)+s.substring(2,3)+s.substring(4,5)
 }
