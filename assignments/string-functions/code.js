@@ -7,3 +7,9 @@ const swapFrontAndBack = (s) => {
 const simplePigLatin = (s,n) => {
   return s.substring(n)+s.substring(0,n)+'ay'
 }
+const isAllUpperCase = (true, false) => {
+  ret
+}
+const firstHalf = (half) => {
+  return substring(s.lenght/2)
+}
