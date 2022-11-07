@@ -34,3 +34,6 @@ const lastCharacter = (s) => {
 const firstThree = (s) => {
   return s.substring(0,3)
 }
+const allButFirstAndList = (s) => {
+  return s.substring(0,1)+s.substring(s.length-1)
+}
