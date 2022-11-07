@@ -13,15 +13,12 @@ const firstHalf = (s) => {
 const lastThree = (s) => {
   return s.substring(s.length-3)
   }
-  const capitalize = (s) => {
-    return s.substring(0,1).toUpperCase 
+const capitalize = (s) => {
+  return s.substring(0,1).toUpperCase 
+}
+const capitalizeFirstThree = (s) => {
+  return s.substring(1,3).toUpperCase
     }
-    const capitalizeFirstThree = (s) => {
-      return s.substring(1,3).toUpperCase
-    }
-    const allButFirst = (s) => {
-      return s.substring (1,s.length)
-    }
-const firstHalf = (s) => {
-  return s.substring(s.length/2)
+const allButFirst = (s) => {
+  return s.substring (1,s.length)
 }
