@@ -29,5 +29,5 @@ const firstCharacter = (s) => {
   return s.substring(0,1)
 }
 const lastCharacter = (s) => {
-  return s.substring(0,1)
+  return s.substring(s.length-1)
 }
