@@ -11,7 +11,7 @@ const firstHalf = (s) => {
   return substring(s.length/2)
 }
 const lastThree = (s) => {
-  return substring(s.length-3)
+  return s.substring(s.length-3)
   }
   const capitalize = (s) => {
     return s[0].toUpperCase 
