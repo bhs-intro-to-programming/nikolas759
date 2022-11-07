@@ -22,3 +22,6 @@ const lastThree = (s) => {
     const allButFirst = (s) => {
       return s.substring (1,s.length)
     }
+    const firstHalf = (s) => {
+  return s.substring(s.length/2)
+    }
