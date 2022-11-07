@@ -25,3 +25,6 @@ const allButFirst = (s) => {
 const secondHalf = (s) => {
  return s.substring(s.length/2)
 }
+const firstCharacter = (s) => {
+  return s.substring(0,1)
+  }
