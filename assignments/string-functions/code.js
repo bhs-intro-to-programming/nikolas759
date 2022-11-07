@@ -13,3 +13,6 @@ const firstHalf = (s) => {
 const lastThree = (s) => {
   return substring(s.lenght-3)
   }
+  const capitalize = (s) => {
+    return s[0].toUpperCase 
+    }
