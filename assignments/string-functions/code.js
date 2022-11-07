@@ -40,3 +40,6 @@ const allButFirstAndList = (s) => {
 const isAllUpperCase = (s) => {
   return s.toUpperCase && !s.toLowerCase
 }
+const everyOther = (s) => {
+  return s.substring(0,1)+.substring(2,3)+.substring(4,5)
+}
