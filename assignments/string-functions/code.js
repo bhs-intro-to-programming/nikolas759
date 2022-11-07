@@ -10,3 +10,5 @@ const simplePigLatin = (s,n) => {
 const firstHalf = (s) => {
   return substring(s.lenght/2)
 }
+const lastThree = (s) => {
+  return substring(s.lenght-3}
