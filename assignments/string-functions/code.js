@@ -7,6 +7,6 @@ const swapFrontAndBack = (s) => {
 const simplePigLatin = (s,n) => {
   return s.substring(n)+s.substring(0,n)+'ay'
 }
-const firstHalf = (s) => {
+const firstHalf = (s,substring) => {
   return substring(s.lenght/2)
 }
