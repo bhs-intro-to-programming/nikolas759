@@ -14,7 +14,7 @@ const lastThree = (s) => {
   return s.substring(s.length-3)
   }
   const capitalize = (s) => {
-    return s[0].toUpperCase 
+    return s.s[0].toUpperCase 
     }
     const capitalizeFirstThree = (s) => {
       return substring(1,3).toUpperCase
