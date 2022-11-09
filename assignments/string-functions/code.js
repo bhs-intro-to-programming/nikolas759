@@ -46,6 +46,3 @@ const everyOther = (s) => {
 const concatenate = (a,b) => {
   return a+b
 }
-const firstName = ('Nikolas P') => {
-  return 'nikolas p'
-}
