@@ -17,7 +17,7 @@ const capitalize = (s) => {
   return s.substring(0,1).toUpperCase 
 }
 const capitalizeFirstThree = (s) => {
-  return s.substring(1,3).toUpperCase()
+  return s.substring(0,3).toUpperCase()
     }
 const allButFirst = (s) => {
   return s.substring (1,s.length)
