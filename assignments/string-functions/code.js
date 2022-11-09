@@ -47,5 +47,5 @@ const concatenate = (a,b) => {
   return a+b
 }
 const firstName = (Nikolas P) => {
-  return Nikolas P.substring(0.space)
+  return Nikolas//P
 }
