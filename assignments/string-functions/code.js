@@ -38,7 +38,7 @@ const allButFirstAndList = (s) => {
   return s.substring(1,s.length-1)
 }
 const isAllUpperCase = (s) => {
-  return s.toUpperCase && !s.toLowerCase
+  return s.toUpperCase() === s
 }
 const everyOther = (s) => {
   return s.substring(0,1)+s.substring(2,3)+s.substring(4,5)
