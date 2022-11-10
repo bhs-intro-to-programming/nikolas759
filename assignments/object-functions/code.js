@@ -1,2 +1,3 @@
-const getX = (x) => {
-  return x[0]
+const emptyObject = () => {
+  return {};
+}
