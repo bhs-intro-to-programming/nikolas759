@@ -1,3 +1,2 @@
-const sum = ['s','a','b'];
-sum['s']
-}
+const sum = ['s','a'];
+sum['s'] + ['a']
