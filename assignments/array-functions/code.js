@@ -1,3 +1,3 @@
 const sum = ['s','a','b'] => {
-  return a + b + s
+  return 'a' + 'b' + 's'
 }
