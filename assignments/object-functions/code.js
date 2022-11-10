@@ -2,5 +2,5 @@ const emptyObject = () => {
   return {};
 }
 const getX = (s) => {
-  return s
+  return getX[s]
 }
