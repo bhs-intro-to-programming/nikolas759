@@ -1,2 +1,2 @@
 const getX = (x) => {
-  return 
+  return X[0]
