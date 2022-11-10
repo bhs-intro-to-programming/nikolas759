@@ -3,4 +3,3 @@ const emptyObject = () => {
 }
 const getX = [x];
 getX[x]
-}
