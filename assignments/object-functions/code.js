@@ -2,4 +2,4 @@ const emptyObject = () => {
   return {};
 }
 const getX = [x];
-getX[x] = 0
+getX[x] = 0;
