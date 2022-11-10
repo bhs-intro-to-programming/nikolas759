@@ -1,2 +1,2 @@
-const sum = ['s','a'];
-let sum['s'] + ['a'];
+const sum = [2,1];
+return 2 + 1
