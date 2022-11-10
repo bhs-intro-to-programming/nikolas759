@@ -1,3 +1,3 @@
-const countTens [array] => {
-  let countTens = 10
+const sum = (1,2,3) => {
+  return [1+2+3]
 }
