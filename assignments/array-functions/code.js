@@ -1,3 +1,3 @@
 const sum = [s, a, b] => {
-  return 
+  return a + b + s
 }
