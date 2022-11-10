@@ -1,2 +1,2 @@
 const sum = ['s','a'];
-sum['s'] + ['a']
+return sum['s'] + ['a']
