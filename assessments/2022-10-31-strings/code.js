@@ -12,5 +12,5 @@ const rand = (n) => Math.floor(Math.random() * n);
 // correct even if contains small mistakes.
 
 const firstHalf = (foobar) => {
-  return s.substring(0,s.length/2)
+  return foobar.substring(0,s.length/2)
 }
