@@ -11,7 +11,7 @@ const higherPaid = (e1, e2) => {
     }
    }
  }
-return e2
+ return e2
 };
 
 const isSamePoint = (p1, p2) => {
