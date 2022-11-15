@@ -1,6 +1,6 @@
 const emptyObject = () => {
   return {};
 }
-const getX = (x) => {
-  return x[x]
+const getX = (obj) => {
+  return obj[x]
 }
