@@ -5,8 +5,8 @@ const area = (rect) => {
 };
 
 const higherPaid = (e1, e2) => {
- let { ‘e1’: 0, ‘e2’: 0 };
- let (i=0; i < salary.length; i++){
+ let { ‘e1’: 0, ‘e2’: 0 };{
+   let (i=0; i < salary.length; i++){
    if (e1[i] > e2[i]){
      return e1
    }
