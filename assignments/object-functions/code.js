@@ -5,7 +5,7 @@ const getX = (obj) => {
   return obj.x
 }
 const sumSalaries = (worker1, worker2) => {
-  for(let i = 0; i < worker1.lenght; i++){
-    return worker1.salary + worker2.salary
+  for(let i = 0; i < lenght; i++){
+    return worker1.salary + worker2
   }
 }
