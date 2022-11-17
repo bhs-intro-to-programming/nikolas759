@@ -5,13 +5,7 @@ const area = (rect) => {
 };
 
 const higherPaid = (e1, e2) => {
-  let (i = 0; i < salary.length; i++){
-   if (e1[i] > e2[i]){
-    return e1;
-   }
-  }
- return e2
-};
+  return e1 > e2
 
 const isSamePoint = (p1, p2) => {
 };
@@ -20,10 +14,7 @@ const totalWithTip = (bill, tipPercentage) => {
 };
 
 const isWinner = (player) => {
-  for (let i = 0; i < score.length; i++){
-    if (player.score > 100){
-      return true;
-    }
+  
   }
   return false;
 };
