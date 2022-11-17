@@ -6,6 +6,6 @@ const getX = (obj) => {
 }
 const sumSalaries = (n1) => {
   for(let i = 0; i < n1.lenght; i++){
+   return n1.salary;
   }
-  return n1.salary;
 }
