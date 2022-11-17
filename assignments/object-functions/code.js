@@ -4,8 +4,8 @@ const emptyObject = () => {
 const getX = (obj) => {
   return obj.x
 }
-const sumSalaries = (worker1) => {
-  for(let i = 0; i < lenght; i++){
-    return worker1.salary
+const sumSalaries = (n1) => {
+  for(let i = 0; i < n1.lenght; i++){
+    return n1.salary
   }
 }
