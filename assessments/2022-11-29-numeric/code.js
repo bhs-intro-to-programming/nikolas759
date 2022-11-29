@@ -20,5 +20,8 @@ const wrapingCombos = (nWrappingPaper, nRibbions, nDecorativeBows) => {
   return nWrappingPaper * nRibbions * nDecorativeBows
 }
 const biggestNumber = (digit) => {
-  return digit * 9
+  return digit * 9 
+}
+const futureHour = (current, future) => {
+  return (current + future) < 24
 }
