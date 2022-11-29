@@ -23,5 +23,5 @@ const biggestNumber = (digit) => {
   return digit * 9 
 }
 const futureHour = (current, future) => {
-  return (current + future)
+  return Math.max(0,24) + (current + future)
 }
