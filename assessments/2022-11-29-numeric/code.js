@@ -16,3 +16,6 @@ const presentsBudget = (friends, presents) => {
 const perPresent = (budget, numberOfP) => {
   return budget / numberOfP
 }
+const wrapingCombos = (nWrappingPaper, nRibbions, nDecorativeBows) => {
+  return nWrappingPaper * nRibbions * nDecorativeBows
+}
