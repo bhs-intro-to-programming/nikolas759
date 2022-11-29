@@ -13,3 +13,6 @@ const leftOut = (chocolates, person) => {
 const presentsBudget = (friends, presents) => {
   return friends * presents
 }
+const perPresent = (budget, numberOfP) => {
+  return budget / numberOfP
+}
