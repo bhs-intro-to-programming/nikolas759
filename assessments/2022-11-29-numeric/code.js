@@ -5,7 +5,7 @@ const chocolatesPerPerson = (chocolates, person) => {
   return Math.floor(chocolates / person)
 }
 const extraChocolates = (chocolates, person) => {
-  return (chocolates / person) 
+  return chocolates / person % chocolates
 }
 const leftOut = (chocolates, person) => {
   return (chocolates - person) + Math.max(0, -3)
@@ -23,5 +23,5 @@ const biggestNumber = (digit) => {
   return digit * 9 
 }
 const futureHour = (current, future) => {
-  return (current + future) < 24
+  return (current + future)
 }
