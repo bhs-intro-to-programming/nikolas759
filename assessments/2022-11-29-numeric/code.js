@@ -19,4 +19,6 @@ const perPresent = (budget, numberOfP) => {
 const wrapingCombos = (nWrappingPaper, nRibbions, nDecorativeBows) => {
   return nWrappingPaper * nRibbions * nDecorativeBows
 }
-const biggestNumber = (digit)
+const biggestNumber = (digit) => {
+  return digit(1) = 9 
+}
