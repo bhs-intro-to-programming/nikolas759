@@ -25,3 +25,6 @@ const biggestNumber = (digit) => {
 const futureHour = (current, future) => {
   return Math.max(0,24) - (current + future) 
 }
+const probabilityAllHeads = (coinFlipped) => {
+  return coinFlipped x 0.5
+}
