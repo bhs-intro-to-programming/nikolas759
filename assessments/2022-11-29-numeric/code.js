@@ -5,7 +5,7 @@ const chocolatesPerPerson = (chocolates, person) => {
   return Math.floor(chocolates / person)
 }
 const extraChocolates = (chocolates, person) => {
-  return (chocolates / person) 
+  return Math.max(chocolates / person) 
 }
 const leftOut = (chocolates, person) => {
   return chocolates - person
@@ -19,3 +19,4 @@ const perPresent = (budget, numberOfP) => {
 const wrapingCombos = (nWrappingPaper, nRibbions, nDecorativeBows) => {
   return nWrappingPaper * nRibbions * nDecorativeBows
 }
+const biggestNumber = (digit)
