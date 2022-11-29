@@ -5,10 +5,10 @@ const chocolatesPerPerson = (chocolates, person) => {
   return Math.floor(chocolates / person)
 }
 const extraChocolates = (chocolates, person) => {
-  return Math.max(chocolates / person) 
+  return (chocolates / person) 
 }
 const leftOut = (chocolates, person) => {
-  return chocolates - person
+  return Math.max(chocolates - person)
 }
 const presentsBudget = (friends, presents) => {
   return friends * presents
