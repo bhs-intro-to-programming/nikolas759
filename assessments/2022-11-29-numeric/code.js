@@ -8,7 +8,7 @@ const extraChocolates = (chocolates, person) => {
   return (chocolates % person)
 }
 const leftOut = (chocolates, person) => {
-  return (chocolates - person) + Math.max(0, -3)
+  return -(chocolates - person)
 }
 const presentsBudget = (friends, presents) => {
   return friends * presents
