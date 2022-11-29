@@ -8,7 +8,7 @@ const extraChocolates = (chocolates, person) => {
   return (chocolates % person)
 }
 const leftOut = (chocolates, person) => {
-  return -(chocolates - person)
+  return -(chocolates - person) > 0
 }
 const presentsBudget = (friends, presents) => {
   return friends * presents
