@@ -5,5 +5,5 @@ const chocolatesPerPerson = (chocolates, person) => {
   return Math.floor(chocolates / person)
 }
 const extraChocolates = (chocolates, person) => {
-  return (chocolates / person) 
+  return (chocolates / person) % chocolates
 }
