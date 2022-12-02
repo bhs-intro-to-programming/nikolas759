@@ -15,3 +15,6 @@ const okaySpeed = (speedLimit, carSpeed) => {
 const twiceAsExpensive = (price1, price2) => {
   return price2 * 2 === price1
 }
+const winningRecord = (wins, loss, ties) => {
+  return (wins + loss + ties) / 2 < wins
+} 
