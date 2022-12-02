@@ -4,3 +4,6 @@ const needHeavyCoat = (goingOut, cold) => {
 needSunscreen = (goBeach, goSki) => {
   return goBeach && goSki
 }
+const needMittens = (goOut, warm) => {
+  return goOut && !warn
+}
