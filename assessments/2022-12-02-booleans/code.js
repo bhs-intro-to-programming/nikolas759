@@ -7,3 +7,8 @@ needSunscreen = (goBeach, goSki) => {
 const needMittens = (goOut, warm) => {
   return goOut && !warm
 }
+const isVenomous = (snake)
+
+const okaySpeed = (speedLimit, carSpeed) => {
+  return (speedLimit - 10) > carSpeed && carSpeed < (speedLimit + 10)
+}
