@@ -18,3 +18,6 @@ const twiceAsExpensive = (price1, price2) => {
 const winningRecord = (wins, loss, ties) => {
   return (wins + loss + ties) / 2 < wins
 } 
+const isMagicNumber = (x) => {
+  return x = 42 || 17
+}
