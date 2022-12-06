@@ -7,3 +7,6 @@ const charactersAround = (s, i) => {
 const middle = (abcdefgh) => {
   return abcdefgh.substring(s.length / 0.25)
 }
+const capitalize = (program) => {
+  return program.toUpperCase(1)
+} 
