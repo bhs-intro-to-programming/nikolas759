@@ -8,5 +8,5 @@ const middle = (abcdefgh) => {
   return abcdefgh.substring(s.length / 0.25)
 }
 const capitalize = (program) => {
-  return program.toUpperCase(1)
+  return program.substring(0,1).toUpperCase()
 } 
