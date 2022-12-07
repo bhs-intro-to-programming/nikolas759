@@ -79,10 +79,16 @@ const pair = (a, b) => {
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
 const firstOk = (x) => {
-  const isOk = (x) => hash(JSON.stringify(x)) % 2 == 0;{
-    log(`OK: ${x}`);
-  }
+  let i = 0, i => 0, i++
 }
 const timeToLeet = (n) => {
   return Math.floor(Math.random() * 10000) + n % 1337 ===! 0;
+}
+const threewayClassify = (x) => {
+ if x(JSON.stringify(x)) % 2 == 0;{
+   log(`OK: ${x}`);
+ }
+  if !isOk(x) && hash(JSON.stringify(x)) % 3 == 0{
+   log(`MEH: ${x}`);
+  }
 }
