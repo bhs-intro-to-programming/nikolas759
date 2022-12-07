@@ -82,5 +82,9 @@ const firstOk = (x) => {
   log(`OK: ${x}`);
 }
 const timeToLeet = (n) => {
-  return Math.floor(Math.random() * 10000) + n % 1337 === 0;
+  return Math.floor(Math.random(){
+    const isLeet = (n) => {
+    n % 1337 === 0;
+    }
+  }
 }
