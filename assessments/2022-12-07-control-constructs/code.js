@@ -81,3 +81,6 @@ const pair = (a, b) => {
 const firstOk = (x) => {
   log(`OK: ${x}`);
 }
+const timeToLeet = (n) => {
+  Math.floor(Math.random() * 10000);
+}
