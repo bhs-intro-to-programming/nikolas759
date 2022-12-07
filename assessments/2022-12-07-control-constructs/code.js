@@ -84,7 +84,7 @@ const firstOk = (x) => {
 const timeToLeet = (n) => {
   return Math.floor(Math.random(){
     const isLeet = (n) => {
-    n % 1337 === 0;
+     n % 1337 === 0;
     }
   }
 }
