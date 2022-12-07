@@ -85,6 +85,6 @@ const timeToLeet = (n) => {
   return Math.floor(Math.random() * 10000) + n % 1337 ===! 0;
 }
 const threewayClassify = (x) => {
- if hash(JSON.stringify(x)) % 2 == 0;
+ if x(JSON.stringify(x)) % 2 == 0;
   return log(`OK: ${x}`);
 }
