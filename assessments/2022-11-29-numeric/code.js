@@ -8,7 +8,7 @@ const extraChocolates = (chocolates, person) => {
   return (chocolates % person)
 }
 const leftOut = (chocolates, person) => {
-  return -(chocolates - person) > 0
+  return -(chocolates - person) 
 }
 const presentsBudget = (friends, presents) => {
   return friends * presents
@@ -26,5 +26,5 @@ const futureHour = (current, future) => {
   return Math.max(0,24) - (current + future) 
 }
 const probabilityAllHeads = (coinFlipped) => {
-  return (coinFlipped * 0.5) 
+  return (coinFlipped * 0.5) * coinFlipped 
 }
