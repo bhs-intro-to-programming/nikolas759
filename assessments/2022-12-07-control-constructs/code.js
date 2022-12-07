@@ -79,7 +79,9 @@ const pair = (a, b) => {
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
 const firstOk = (x) => {
-  log(`OK: ${x}`);
+  const isOk = (x) => hash(JSON.stringify(x)) % 2 == 0;{
+    log(`OK: ${x}`);
+  }
 }
 const timeToLeet = (n) => {
   return Math.floor(Math.random() * 10000) + n % 1337 ===! 0;
