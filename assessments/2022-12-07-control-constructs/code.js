@@ -82,5 +82,5 @@ const firstOk = (x) => {
   log(`OK: ${x}`);
 }
 const timeToLeet = (n) => {
-  Math.floor(Math.random() * 10000);
+  return Math.floor(Math.random() * 10000);
 }
