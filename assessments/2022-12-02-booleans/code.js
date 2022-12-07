@@ -2,7 +2,7 @@ const needHeavyCoat = (goingOut, cold) => {
   return goingOut && cold 
 }
 needSunscreen = (goBeach, goSki) => {
-  return goBeach && goSki
+  return goBeach || goSki
 }
 const needMittens = (goOut, warm) => {
   return goOut && !warm
@@ -17,5 +17,5 @@ const winningRecord = (wins, loss, ties) => {
   return (wins + loss + ties) / 2 < wins
 } 
 const isMagicNumber = (x) => {
-  return 42 || 17
+  return x === 42 || x=== 17
 }
