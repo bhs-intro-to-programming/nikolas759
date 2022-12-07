@@ -80,7 +80,7 @@ const pair = (a, b) => {
 // Write your code here ...
 const logIfOk 
 
-const firstOk = (n) => {
+const firstOk = (recordOk) => {
   const recordOk = (x) => {
   log(`OK: ${x}`);
   }
