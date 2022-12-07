@@ -78,8 +78,6 @@ const pair = (a, b) => {
 
 ////////////////////////////////////////////////////////////////////////
 // Write your code here ...
-const firstOk = (recordOk) => {
-  const recordOk = (x) => {
+const firstOk = (x) => {
   log(`OK: ${x}`);
-  }
 }
