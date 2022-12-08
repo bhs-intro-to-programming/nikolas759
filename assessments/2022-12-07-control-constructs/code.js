@@ -112,6 +112,7 @@ const threewayClassify = (x) => {
    recordNot0k(x);
 }}
 const pairs = (x) => {
-  for(let i = 1; i < x; i++)
-  for(let f = 1; f < x; f++)
+  for(let i = 1; i < x; i++){
+   (let f = 1; f < x; f++)
+  }
 }
