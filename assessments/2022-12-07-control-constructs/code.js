@@ -113,6 +113,6 @@ const threewayClassify = (x) => {
 }}
 const pairs = (x) => {
   for(let i = 1; i < x; i++){
-   (let f = 1; f < x; f++)
+   (let j = 1; j < x; f++)
   }
 }
