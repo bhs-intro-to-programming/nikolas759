@@ -87,3 +87,32 @@ const logIfOk = (n) => {
   if (isOk(n)) 
   log(n)
 }
+const timeToLeet = () => {
+  let count = 0;
+  while (!isLeet(random10k())) {
+   count++
+  }
+  return count;
+}
+
+const classify = (x) => {
+ if (isOk(x))
+   record0k(x);
+ } else {
+   recordNotok(x);
+ }
+}
+
+const threewayClassify = (x) => {
+
+if (is0k(x)) {
+
+record0k(x);
+
+} else if (isMeh(x)) {
+
+recordMeh (x);
+
+} else {
+
+recordNot0k(x);
