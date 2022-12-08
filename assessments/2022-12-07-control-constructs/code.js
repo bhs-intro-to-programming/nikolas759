@@ -80,8 +80,6 @@ const pair = (a, b) => {
 // Write your code here ...
 const firstOk = (x) => {
   for(let i = 0, i < x, i++) {
-    if (isOk(i)) {
-      return i
-    }
+    if (isOk(i)) { return i; }
   }
 }
