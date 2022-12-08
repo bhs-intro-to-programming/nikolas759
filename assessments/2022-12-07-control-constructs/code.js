@@ -96,7 +96,7 @@ const timeToLeet = () => {
 }
 
 const classify = (x) => {
- if (isOk(x))
+ if (isOk(x)) {
    record0k(x);
  } else {
    recordNotok(x);
@@ -104,15 +104,10 @@ const classify = (x) => {
 }
 
 const threewayClassify = (x) => {
-
-if (is0k(x)) {
-
-record0k(x);
-
-} else if (isMeh(x)) {
-
-recordMeh (x);
-
-} else {
-
-recordNot0k(x);
+  if (is0k(x)) {
+   record0k(x);
+ } else if (isMeh(x)) {
+   recordMeh (x);
+ } else {
+   recordNot0k(x);
+ }
