@@ -5,3 +5,4 @@ const emit = (a, b, product) => {
 };
 
 // Write your code here ...
+test
