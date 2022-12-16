@@ -127,5 +127,9 @@ const isMagicNumber = (x) => {
   return x === 42 || x === 17
 }
 const isWinner = (x) => {
-  return x.score > 100
+  if x.score > 100{
+    return true
+  }
+   else return fase
 }
+
