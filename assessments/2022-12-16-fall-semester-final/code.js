@@ -211,3 +211,6 @@ const extractColumn = (board, c) => {
   }
   return col;
 };
+const fireAlarm = (pulled, smoke, drill) => {
+  return pulled || smoke || drill
+}
