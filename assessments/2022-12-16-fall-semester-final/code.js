@@ -152,7 +152,7 @@ const timeToLeet = () => {
   return count;
 }
 const makeRow = () => {
-  return ['' : '' : '']
+  return ['' , '' , '']
 }
 const makeBoard = () => {
   makerow;
