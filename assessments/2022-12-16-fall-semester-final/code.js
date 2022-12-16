@@ -174,3 +174,9 @@ const threewayClassify = (x) => {
  } else {
    recordNot0k(x);
 }}
+const higherPaid = (x1,x2) => {
+  if (x1.salary > x2.salary){
+    return x1; }
+  } else if (x2.salary > x1.salary){
+    return x2; }
+}}
