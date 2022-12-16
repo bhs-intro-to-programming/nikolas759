@@ -7,3 +7,6 @@ const chocolatesPerPerson = (cho, people) => {
 const extraChocolates = (cho, people) => {
   return cho % people
 }
+const presentsBudget = (friends, presents) => {
+  return friends * presents
+}
