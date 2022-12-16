@@ -139,7 +139,7 @@ const logIfOk = (n) => {
   
 }
 const firstOk = (n) => {
- for (let n = 0; n < limit; n++) {
+ for (let n = 0; n < n.limit; n++) {
    if (isOk(n)) { return n ;}
  }
 }
