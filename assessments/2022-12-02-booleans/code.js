@@ -10,3 +10,6 @@ const needMittens = (goOut, warm) => {
 const twiceAsExpensive = (price1, price2) => {
   return price1 > price2 * 2
 }
+const isMagicNumber = (x) => {
+  return x === 42 || x === 17
+}
