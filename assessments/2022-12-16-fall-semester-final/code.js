@@ -217,3 +217,6 @@ const fireAlarm = (pulled, smoke, drill) => {
 const canGoToProm = (senior, invited, list) => {
   return senior || invited && !list
 }
+const randomCharacter = (s) => {
+  return s[rand(s.length)]
+}
