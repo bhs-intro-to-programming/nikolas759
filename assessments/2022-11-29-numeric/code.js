@@ -10,6 +10,6 @@ const extraChocolates = (cho, people) => {
 const presentsBudget = (friends, presents) => {
   return friends * presents
 }
-const perPresents = (friends, presents) => {
+const perPresent = (friends, presents) => {
   return friends / presents
 }
