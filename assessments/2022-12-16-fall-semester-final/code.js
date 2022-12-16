@@ -155,8 +155,8 @@ const makeRow = () => {
   return ['' , '' , '']
 }
 const makeBoard = () => {
-  makerow;
-  makerow;
+  makerow,
+  makerow,
   makerow;
 }
 const classify = (x) => {
