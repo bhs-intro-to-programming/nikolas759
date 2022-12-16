@@ -127,5 +127,5 @@ const isMagicNumber = (x) => {
   return x === 42 || x === 17
 }
 const firstHalf = (s) => {
-  return s.substring(1, 0)
+  return s.substring()
 }
