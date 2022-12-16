@@ -13,3 +13,4 @@ const rand = (n) => Math.floor(Math.random() * n);
 
 const firstHalf = (foobar) => {
   return foobar.substring(0,s.length/2)
+}
