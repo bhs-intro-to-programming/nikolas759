@@ -151,3 +151,11 @@ const timeToLeet = () => {
   }
   return count;
 }
+const makeRow = () => {
+  return ['':'':'']
+}
+const makeBoard = () => {
+  makerow,
+  makerow,
+  makerow,
+}
