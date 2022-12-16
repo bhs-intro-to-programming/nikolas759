@@ -129,3 +129,6 @@ const isMagicNumber = (x) => {
 const upDown = (s) => {
   return s.toUpperCase() + push.s
 }
+const firstAndLast = (s) => {
+  return s.subtring(0,1) + s.substring(s.length, -1)
+}
