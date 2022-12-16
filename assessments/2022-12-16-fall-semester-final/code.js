@@ -143,4 +143,19 @@ const firstOk = (n) => {
    if (isOk(n)) { return n ;}
  }
 }
-const classify = ()
+const firstOk = (x) => {
+  for(let i = 0; i < x; i++) {
+    if (isOk(i)) { return i; }
+  }
+}
+const logIfOk = (n) => {
+  if (isOk(n)) 
+  log(n)
+}
+const timeToLeet = () => {
+  let count = 0;
+  while (!isLeet(random10k())) {
+   count++
+  }
+  return count;
+}
