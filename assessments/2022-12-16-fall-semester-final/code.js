@@ -183,3 +183,6 @@ const higherPaid = (x1,x2) => {
 const firstHalf = (s) => {
   return s.substring(0, s.length/2)
 }
+const isAllUpperCase = (s) => {
+  return s === s.toUpperCase
+}
