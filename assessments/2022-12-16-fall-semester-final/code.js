@@ -126,10 +126,12 @@ const twiceAsExpensive = (price1, price2) => {
 const isMagicNumber = (x) => {
   return x === 42 || x === 17
 }
-const isWinner = (x) => {
-  if x.score > 100{
-    return true
-  }
-   else return fase
+const firstHalf = (s) => {
+  return 
 }
-
+const firstOk = (n) = {
+  return 
+}
+const isWinner = (x) => {
+  return x.score > 100
+}
