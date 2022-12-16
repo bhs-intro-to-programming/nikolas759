@@ -130,7 +130,7 @@ const upDown = (s) => {
   return s.toUpperCase() + push.s
 }
 const firstAndLast = (s) => {
-  return s.subtring(0,1) + s.substring(s.length, -1)
+  return s.substring(0,1) + s.substring(s.length, -1)
 }
 const capitalize = (s) => {
   return s.substring(0.1).toUpperCase()
