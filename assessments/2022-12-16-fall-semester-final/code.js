@@ -186,3 +186,6 @@ const firstHalf = (s) => {
 const isAllUpperCase = (s) => {
   return s === s.toUpperCase
 }
+const isSamePoint = (p1, p2) => {
+  return (p1.x = p2.x) && (p1.y = p2.y)
+};
