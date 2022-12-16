@@ -127,5 +127,11 @@ const isMagicNumber = (x) => {
   return x === 42 || x === 17
 }
 const firstHalf = (s) => {
-  return s.substring()
+  return 
+}
+const firstOk = (n) = {
+  return 
+}
+const isWinner = (x) => {
+  return x.score > 100
 }
