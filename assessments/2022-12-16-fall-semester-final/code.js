@@ -159,3 +159,18 @@ const makeBoard = () => {
   makerow;
   makerow;
 }
+const classify = (x) => {
+ if (isOk(x)) {
+   record0k(x);
+ } else {
+   recordNotok(x);
+ }
+}
+const threewayClassify = (x) => {
+  if (is0k(x)) {
+   record0k(x);
+ } else if (isMeh(x)) {
+   recordMeh (x);
+ } else {
+   recordNot0k(x);
+}}
