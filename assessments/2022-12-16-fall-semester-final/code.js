@@ -133,5 +133,5 @@ const firstAndLast = (s) => {
   return s.substring(0,1) + s.substring(s.length, -1)
 }
 const capitalize = (s) => {
-  return s.substring(0.1).toUpperCase()
+  return s.toUpperCase(0,1)
 }
