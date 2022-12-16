@@ -135,14 +135,6 @@ const firstAndLast = (s) => {
 const capitalize = (s) => {
   return s.toUpperCase(0,1)
 }
-const logIfOk = (n) => {
-  
-}
-const firstOk = (n) => {
- for (let n = 0; n < n.limit; n++) {
-   if (isOk(n)) { return n ;}
- }
-}
 const firstOk = (x) => {
   for(let i = 0; i < x; i++) {
     if (isOk(i)) { return i; }
