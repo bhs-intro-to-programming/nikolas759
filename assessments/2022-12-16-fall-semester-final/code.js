@@ -214,3 +214,6 @@ const extractColumn = (board, c) => {
 const fireAlarm = (pulled, smoke, drill) => {
   return pulled || smoke || drill
 }
+const canGoToProm = (senior, invited, list) => {
+  return senior || invited && !list
+}
