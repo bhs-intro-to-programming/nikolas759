@@ -143,3 +143,4 @@ const firstOk = (n) => {
    if (isOk(n)) { return n ;}
  }
 }
+const classify = ()
