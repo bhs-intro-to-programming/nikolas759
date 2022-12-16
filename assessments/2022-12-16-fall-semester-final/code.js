@@ -180,3 +180,6 @@ const higherPaid = (x1,x2) => {
   } else if (x2.salary > x1.salary){
     return x2; 
 } }
+const firstHalf = (s) => {
+  return s.substring(0, s.length/2)
+}
