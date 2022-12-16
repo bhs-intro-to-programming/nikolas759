@@ -189,3 +189,25 @@ const isAllUpperCase = (s) => {
 const isSamePoint = (p1, p2) => {
   return (p1.x = p2.x) && (p1.y = p2.y)
 }
+const makeMove = (mark, row, column) => {
+  return { mark: mark, row: row, column: column };
+};
+
+const placeMark = (board, move) => {
+  board[move.row][move.column] = move.mark;
+};
+
+const allTheSame = (xs) => {
+  for (let i = 1; i < xs.length; i++) {
+    if (xs[0] !== xs[i]) return false;
+  }
+  return true;
+};
+
+const extractColumn = (board, c) => {
+  let col = [];
+  for (let r = 0; r < board.length; r++) {
+    col.push(board[r][c]);
+  }
+  return col;
+};
