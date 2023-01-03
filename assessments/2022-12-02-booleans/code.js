@@ -1,21 +1,15 @@
-const needHeavyCoat = (goingOut, cold) => {
-  return goingOut && cold 
+const needHeavyCoat = (cold, outside) => {
+  return cold && outside
 }
-needSunscreen = (goBeach, goSki) => {
-  return goBeach || goSki
+const needSunscreen = (beach, skiing) => {
+  return beach || skiing 
 }
 const needMittens = (goOut, warm) => {
   return goOut && !warm
 }
-const okaySpeed = (speedLimit, carSpeed) => {
-  return (speedLimit - 10) > carSpeed && carSpeed < (speedLimit + 10)
-}
 const twiceAsExpensive = (price1, price2) => {
-  return price2 * 2 === price1
+  return price1 > price2 * 2
 }
-const winningRecord = (wins, loss, ties) => {
-  return (wins + loss + ties) / 2 < wins
-} 
 const isMagicNumber = (x) => {
-  return x === 42 || x=== 17
+  return x === 42 || x === 17
 }
