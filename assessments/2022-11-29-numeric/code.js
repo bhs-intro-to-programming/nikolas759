@@ -1,30 +1,15 @@
-const totalEggs = (hardBoil, softBoil) => {
-  return hardBoil + softBoil 
+const totalEggs = (soft, hard) => {
+  return soft + hard
 }
-const chocolatesPerPerson = (chocolates, person) => {
-  return Math.floor(chocolates / person)
+const chocolatesPerPerson = (cho, people) => {
+  return Math.floor(cho / people)
 }
-const extraChocolates = (chocolates, person) => {
-  return (chocolates % person)
-}
-const leftOut = (chocolates, person) => {
-  return -(chocolates - person) 
+const extraChocolates = (cho, people) => {
+  return cho % people
 }
 const presentsBudget = (friends, presents) => {
   return friends * presents
 }
-const perPresent = (budget, numberOfP) => {
-  return budget / numberOfP
-}
-const wrapingCombos = (nWrappingPaper, nRibbions, nDecorativeBows) => {
-  return nWrappingPaper * nRibbions * nDecorativeBows
-}
-const biggestNumber = (digit) => {
-  return digit * 9 
-}
-const futureHour = (current, future) => {
-  return Math.max(0,24) - (current + future) 
-}
-const probabilityAllHeads = (coinFlipped) => {
-  return (coinFlipped * 0.5) * 0.5 
+const perPresent = (friends, presents) => {
+  return friends / presents
 }
