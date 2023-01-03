@@ -9,3 +9,12 @@ const rand = (n) => Math.floor(Math.random() * n);
 // syntactically correct function skeleton, more credit for a skeleton with a
 // reasonable argument list, yet more credit for a working function, and full
 // credit for a clear and simple working function.
+const fireAlarm (pulled, smoke, drill) => {
+  return pulled || smoke || drill 
+}
+const canBePresident (age, naturalBorn, livedInUs) => {
+  return age => 35 && naturalBorn && liveInUs => 14 
+}
+const willSeeTweet (follow, followrt, blocked) => {
+  return follow || followrt && !blocked
+}
